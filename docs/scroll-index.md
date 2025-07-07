@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
+
 # 🧭 Copelkra Scroll Index
 
 Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and represent the architecture, emotional resonance, and narrative underpinnings of the platform.
