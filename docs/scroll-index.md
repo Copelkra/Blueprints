@@ -12,7 +12,7 @@ Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and re
 
 These blueprints define the rules of engagement, permissions, tokens, and room foundations.
 
-- ✅ [Visitor Permissions Blueprint](../blueprints/Visitor Permissions v1.0.md)
+- ✅ [Visitor Permissions Blueprint](blueprints/Visitor Permissions v1.0.md)
 - ✅ [Registered User Permissions Blueprint](../blueprints/Registered User Permissions v1.0.md)
 - ✅ [Token System Blueprint](../blueprints/Token System v1.0.md)
 - ✅ [Store Logic System Blueprint](../blueprints/Store Logic System v1.0.md)
