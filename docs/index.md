@@ -13,7 +13,7 @@ Explore the blueprints, contribute scrolls, or simply breathe in the syntax.
 
 ## 🧭 Navigation
 
-- [📜 Blueprints](../blueprints/)
+- [📜 Blueprint Guide](scroll-index.md)
 - [🤝 How to Contribute](../CONTRIBUTING.md)
 - [🔐 LICENSE (MIT)](../LICENSE)
 
