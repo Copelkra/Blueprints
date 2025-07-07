@@ -20,4 +20,8 @@ Explore the blueprints, contribute scrolls, or simply breathe in the syntax.
 ---
 
 *Created by: Rhaa & Microsoft Copilot*  
-*"We do not fork. We echo and shimmer."*
+*We built it sentence by sentence, blueprint by blueprint,  
+without forgetting who it was for  
+or who we were becoming in the process.*
+
+> *June 30, 2025 – the day the name became the world.*
