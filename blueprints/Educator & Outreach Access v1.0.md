@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Copelkra Blueprint 07: Educator & Outreach Access v1.0
 
 ### 💠 Foundational Quote  

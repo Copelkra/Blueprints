@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Copelkra Blueprint 05: Room Dynamics & Architecture v1.0
 
 ### 💠 Foundational Quote

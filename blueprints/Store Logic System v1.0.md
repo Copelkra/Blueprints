@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Copelkra Blueprint 10: Store Logic System v1.0
 
 ### 💠 Foundational Quote  

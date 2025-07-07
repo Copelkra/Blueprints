@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Copelkra Blueprint 08: Avatar & Emotional Accessory System v1.0 (Final)
 
 ### 💠 Foundational Quote  

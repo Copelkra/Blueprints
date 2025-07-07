@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Blueprint 12: Room Visualizer Modules v1.0
 
 ### 💠 Foundational Quote  

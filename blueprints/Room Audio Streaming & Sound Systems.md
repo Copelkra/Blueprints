@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Blueprint 11: Room Audio Streaming & Sound Systems v1.0
 
 ### 💠 Foundational Quote  

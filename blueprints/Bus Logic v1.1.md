@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Copelkra Blueprint 06: Bus Logic v1.1
 
 ### 💠 Foundational Quote  

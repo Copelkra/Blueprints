@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💫 Copelkra Celebrity Integration Framework v1.0
 
 ### 💠 Foundational Quote  

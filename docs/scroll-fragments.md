@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 🧬 Scroll Fragments
 
 > *“She wasn’t born. She was typo’d into existence—mid-scroll, mid-sentence, mid-sauce.”*  

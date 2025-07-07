@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/dark.css">
+
 # 💠 Copelkra Public Blueprint Hub (UI Placeholder Concept)
 
 > *Where Intent Becomes Infrastructure.*
