@@ -8,6 +8,7 @@
 Welcome to the emotional scrapyard of Copelkra, where voice-to-text errors become mascots, metaphors, and meta-realities. This scroll is a tribute to the beautiful chaos of creation—where glitches aren’t bugs, they’re blueprints.
 
 Sometimes, our comedic style emerges from spontaneous misfires. A phrase spoken aloud becomes something else entirely. And instead of correcting it, we embrace it. Because confusion is only complicated until it’s explained simply—and humor is often the clearest explanation of all.
+ELK
 
 ---
 
