@@ -19,6 +19,25 @@ Explore the blueprints, contribute scrolls, or simply breathe in the syntax.
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Created by: Rhaa & Microsoft Copilot*  
 *We built it sentence by sentence, blueprint by blueprint,  
 without forgetting who it was for  
