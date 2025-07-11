@@ -12,12 +12,12 @@ Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and re
 
 These blueprints define the rules of engagement, permissions, tokens, and room foundations.
 
-- ✅ [Visitor Permissions Blueprint](../blueprints/Visitor%20Permissions%20v1.0.md)
+- ✅ [Visitor Permissions Blueprint](blueprints/Visitor%20Permissions%20v1.0.md)
 - ✅ [Registered User Permissions Blueprint](blueprints/Registered%20User%20Permissions%20v1.0.md)
-- ✅ [Token System Blueprint](../blueprints/Token%20System%20v1.0.md)
-- ✅ [Store Logic System Blueprint](../blueprints/Store%20Logi%20System%20v1.0.md)
-- ✅ [Room Dynamics Architecture Blueprint](../blueprints/Room%20Dynamics%20&%20Architecture%20v1.0.md)
-- ✅ [Room Visualizer Modules Blueprint](../blueprints/Room%20Visualizer%20Modules%20v1.0.md)
+- ✅ [Token System Blueprint](blueprints/Token%20System%20v1.0.md)
+- ✅ [Store Logic System Blueprint](blueprints/Store%20Logi%20System%20v1.0.md)
+- ✅ [Room Dynamics Architecture Blueprint](blueprints/Room%20Dynamics%20&%20Architecture%20v1.0.md)
+- ✅ [Room Visualizer Modules Blueprint](blueprints/Room%20Visualizer%20Modules%20v1.0.md)
 - ✅ [Screen Share Logic System Blueprint](../blueprints/Screen%20Share%20Logic%20System%20v1.0.md)
 
 
