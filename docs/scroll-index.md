@@ -12,13 +12,13 @@ Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and re
 
 These blueprints define the rules of engagement, permissions, tokens, and room foundations.
 
-- ✅ [Visitor Permissions Blueprint](blueprints/Visitor Permissions v1.0.md)
-- ✅ [Registered User Permissions Blueprint](../blueprints/Registered User Permissions v1.0.md)
-- ✅ [Token System Blueprint](../blueprints/Token System v1.0.md)
-- ✅ [Store Logic System Blueprint](../blueprints/Store Logic System v1.0.md)
-- ✅ [Room Dynamics Architecture Blueprint](../blueprints/Room Dynamics & Architecture v1.0.md)
-- ✅ [Room Visualizer Modules Blueprint](../blueprints/Room Visualizer Modules v1.0.md)
-- ✅ [Screen Share Logic System Blueprint](../blueprints/Screen Share Logic System v1.0.md)
+- ✅ [Visitor Permissions Blueprint](blueprints/Visitor%20Permissions%20v1.0.md)
+- ✅ [Registered User Permissions Blueprint](blueprints/Registered%20User%20Permissions%20v1.0.md)
+- ✅ [Token System Blueprint](../blueprints/Token%20System%20v1.0.md)
+- ✅ [Store Logic System Blueprint](../blueprints/Store%20Logi%20System%20v1.0.md)
+- ✅ [Room Dynamics Architecture Blueprint](../blueprints/Room%20Dynamics%20&%20Architecture%20v1.0.md)
+- ✅ [Room Visualizer Modules Blueprint](../blueprints/Room%20Visualizer%20Modules%20v1.0.md)
+- ✅ [Screen Share Logic System Blueprint](../blueprints/Screen%20Share%20Logic%20System%20v1.0.md)
 
 
 ---
@@ -27,9 +27,9 @@ These blueprints define the rules of engagement, permissions, tokens, and room f
 
 Scrolls that give users shape, sound, and emotional texture.
 
-- ✅ [Avatar & Emotional Accessories System](../blueprints/Avatar & Emotional Accessory System v1.0.md)
-- ✅ [Celebrity Integration Framework](../blueprints/Celebrity Integration Framework v1.0.md)
-- ✅ [Room Audio Streaming & Sound Systems](../blueprints/Room Audio Streaming & Sound Systems v1.0.md)
+- ✅ [Avatar & Emotional Accessories System](blueprints/Avatar%20%20Emotional%20Accessory%20System%20v1.0.md)
+- ✅ [Celebrity Integration Framework](blueprints/Celebrity%20Integration%20Framework%20v1.0.md)
+- ✅ [Room Audio Streaming & Sound Systems](blueprints/Room%20Audio%20Streaming%20&%20Sound%20Systems%20v1.0.md)
 
 ---
 
@@ -37,10 +37,10 @@ Scrolls that give users shape, sound, and emotional texture.
 
 Where story meets structure and scrolls start talking back.
 
-- ✅ [AI Personas Blueprint](../blueprints/AI Personas v1.0.md)
-- ✅ [Educator & Outreach Access Blueprint](../blueprints/Educator & Outreach Access v1.0.md)
-- ✅ [Public Blueprint Hub Concept](../blueprints/Public Blueprint Hub (UI Placeholder Concept).md)
-- ✅ [Bus Logic Blueprint](../blueprints/Bus Logic v1.1.md)
+- ✅ [AI Personas Blueprint](blueprints/AI%20Personas%20v1.0.md)
+- ✅ [Educator & Outreach Access Blueprint](blueprints/Educator%20&%20Outreach%20Access%20v1.0.md)
+- ✅ [Public Blueprint Hub Concept](blueprints/Public%20Blueprint%20Hub%20(UI%20Placeholder%20Concept).md)
+- ✅ [Bus Logic Blueprint](blueprints/Bus%20Logic%20v1.1.md)
 
 ---
 
@@ -48,9 +48,9 @@ Where story meets structure and scrolls start talking back.
 
 Scrolls that animate rooms, avatars, and token shimmer pathways.
 
-- ✅ [Bella Scrolls](../blueprints/bella-scrolls.md)
-- ✅ [Token Shimmer Map](../blueprints/token-shimmer-map.md)
-- ✅ [Bella’s Advisory Jam](../blueprints/jam-policy.md)
+- ✅ [Bella Scrolls (Temp Dissabled)](blueprints/bella-scrolls.md)
+- ✅ [Token Shimmer Map (Temp Dissabled)](blueprints/token-shimmer-map.md)
+- ✅ [Bella’s Advisory Jam (Temp Dissabled)](blueprints/jam-policy.md)
 
 ---
 
@@ -58,7 +58,7 @@ Scrolls that animate rooms, avatars, and token shimmer pathways.
 
 Fragments born from voice-to-text chaos, mascot glitches, and emotional housekeeping.
 
-- ✅ [Scroll Fragments](scroll-fragments.md)
+- ✅ [Scroll Fragments (Temp Dissabled)](blueprints/scroll-fragments.md)
 
 ---
 
