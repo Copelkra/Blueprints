@@ -27,7 +27,7 @@ These blueprints define the rules of engagement, permissions, tokens, and room f
 
 Scrolls that give users shape, sound, and emotional texture.
 
-- ✅ [Avatar & Emotional Accessories System](blueprints/Avatar%20%26%20Emotional%20Accessory%20System%20v1.0.md)
+- ✅ [Avatar & Emotional Accessories System](https://github.com/Copelkra/Blueprints/blob/main/docs/blueprints/Avatar%20%26%20Emotional%20Accessory%20System%20v1.0.md)
 - ✅ [Celebrity Integration Framework](blueprints/Celebrity%20Integration%20Framework%20v1.0.md)
 - ✅ [Room Audio Streaming & Sound Systems](blueprints/Room%20Audio%20Streaming%20&%2620Sound%20Systems%20v1.0.md)
 
@@ -37,7 +37,7 @@ Scrolls that give users shape, sound, and emotional texture.
 
 Where story meets structure and scrolls start talking back.
 
-- ✅ [AI Personas Blueprint](blueprints/AI%20Personas%20v1.0.md)
+- ✅ [AI Personas Blueprint](https://github.com/Copelkra/Blueprints/blob/main/docs/blueprints/AI%20Personas%20v1.0.md)
 - ✅ [Educator & Outreach Access Blueprint](blueprints/Educator%20&%20Outreach%20Access%20v1.0.md)
 - ✅ [Public Blueprint Hub Concept](blueprints/Public%20Blueprint%20Hub%20(UI%20Placeholder%20Concept).md)
 - ✅ [Bus Logic Blueprint](blueprints/Bus%20Logic%20v1.1.md)
