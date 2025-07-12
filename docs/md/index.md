@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="./assets/css/dark.css">
 
 
-# 🧭 Copelkra Scroll Index
+# 🧭 Copelkra Scroll Index <br>
 
+  <br>
+  
 ## ✨ Scroll Status & Access Notes <br>
 Welcome to Copelkra’s scroll corridors. The blueprints shown here are marked with ✅ to indicate scrolls that are active, online, and currently in resonance with the Copelkra framework. <br>
 These scrolls are part of a shimmering system- fluid, reflexive, and constantly reformed as our internal structures evolve. 
@@ -14,10 +16,12 @@ These are NOT the Investor or Internal Development Blueprints.
 
 Those versions are part of a separate, private repository: 🔐 “Blueprints in Action”—a space reserved exclusively for internal developers and approved investors. If you’ve misplaced your access or recently joined the internal team, feel free to email us and we’ll get you reconnected.. [Email for Dev/Invest HERE](<copelkra@outlook.com>)**
 
->### Founder's Quote:
->*What’s visible today is only one echo of what Copelkra is becoming.*
+>### 💠 Foundational Quote  
+> What’s visible today is only one echo of what Copelkra is becoming.
 ---
-
+  
+  <br>
+  
 ## 🪜 Core Systems: 
 ## Mechanics That Make Copelkra Move
 
