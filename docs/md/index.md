@@ -6,7 +6,7 @@
 Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and represent the architecture, emotional resonance, and narrative underpinnings of the platform. <br>
 
 **These are NOT the Investor nor Development Blueprints.  If you are a present or future Investor or Internal Developer you will have received an Email to the "
-Private Repository of *Blueprints in Action*". Send us an Email if you would like re-access due to lost info or just joining our *Internal Team*. [Email for Dev/Invest HERE](mail://copelkra@outlook.com)
+Private Repository of *Blueprints in Action*". Send us an Email if you would like re-access due to lost info or just joining our *Internal Team*. [Email for Dev/Invest HERE](<copelkra@outlook.com>)
 
 
 ---
