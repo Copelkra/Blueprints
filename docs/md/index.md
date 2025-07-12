@@ -3,12 +3,19 @@
 
 # 🧭 Copelkra Scroll Index
 
-Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and represent the architecture, emotional resonance, and narrative underpinnings of the platform. <br>
+## ✨ Scroll Status & Access Notes <br>
+Welcome to Copelkra’s scroll corridors. The blueprints shown here are marked with ✅ to indicate scrolls that are active, online, and currently in resonance with the Copelkra framework. <br>
+These scrolls are part of a shimmering system- fluid, reflexive, and constantly reformed as our internal structures evolve. 
+<br>
 
-**These are NOT the Investor nor Development Blueprints.  If you are a present or future Investor or Internal Developer you will have received an Email to the "
-Private Repository of *Blueprints in Action*". Send us an Email if you would like re-access due to lost info or just joining our *Internal Team*. [Email for Dev/Invest HERE](<copelkra@outlook.com>)
+**The scrolls presented here reflect current versions of Copelkra’s core systems, emotional architecture, and cultural frameworks. They are not static documents—they represent a living archive, subject to ongoing revision as our internal blueprints become more refined, structured, and constitutionalized.
 
+These are NOT the Investor or Internal Development Blueprints.
 
+Those versions are part of a separate, private repository: 🔐 “Blueprints in Action”—a space reserved exclusively for internal developers and approved investors. If you’ve misplaced your access or recently joined the internal team, feel free to email us and we’ll get you reconnected.. [Email for Dev/Invest HERE](<copelkra@outlook.com>)**
+
+>### Founder's Quote:
+>*What’s visible today is only one echo of what Copelkra is becoming.*
 ---
 
 ## 🪜 Core Systems: 
