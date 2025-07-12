@@ -27,7 +27,7 @@ These blueprints define the rules of engagement, permissions, tokens, and room f
 
 Scrolls that give users shape, sound, and emotional texture.
 
-- ✅ [Avatar & Emotional Accessories System](https://github.com/Copelkra/Blueprints/docs/blueprints/Avatar%20%26%20Emotional%20Accessory%20System%20v1.0.md)
+- ✅ [Avatar & Emotional Accessories System](https://github.com/Copelkra/Blueprints/blob/d477d772bc2bf7e5715c88031f9b6a36dbbcc7ce/docs/blueprints/Avatar%20%26%20Emotional%20Accessory%20System%20v1.0.md)
 - ✅ [Celebrity Integration Framework](blueprints/Celebrity%20Integration%20Framework%20v1.0.md)
 - ✅ [Room Audio Streaming & Sound Systems](blueprints/Room%20Audio%20Streaming%20&%2620Sound%20Systems%20v1.0.md)
 
