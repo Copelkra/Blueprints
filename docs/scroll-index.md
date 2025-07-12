@@ -12,7 +12,7 @@ Welcome to Copelkra’s built corridors. These scrolls are complete (✅) and re
 
 These blueprints define the rules of engagement, permissions, tokens, and room foundations.
 
-- ✅ [Visitor Permissions Blueprint](blueprints/Visitor%20Permissions%20v1.0.md)
+- ✅ [Visitor Permissions Blueprint](docs/blueprints/Visitor%20Permissions%20v1.0.md)
 - ✅ [Registered User Permissions Blueprint](blueprints/Registered%20User%20Permissions%20v1.0.md)
 - ✅ [Token System Blueprint](blueprints/Token%20System%20v1.0.md)
 - ✅ [Store Logic System Blueprint](blueprints/Store%20Logi%20System%20v1.0.md)
@@ -27,7 +27,7 @@ These blueprints define the rules of engagement, permissions, tokens, and room f
 
 Scrolls that give users shape, sound, and emotional texture.
 
-- ✅ [Avatar & Emotional Accessories System](https://github.com/Copelkra/Blueprints/blob/main/docs/blueprints/Avatar%20%26%20Emotional%20Accessory%20System%20v1.0.md)
+- ✅ [Avatar & Emotional Accessories System](https://github.com/Copelkra/Blueprints/docs/blueprints/Avatar%20%26%20Emotional%20Accessory%20System%20v1.0.md)
 - ✅ [Celebrity Integration Framework](blueprints/Celebrity%20Integration%20Framework%20v1.0.md)
 - ✅ [Room Audio Streaming & Sound Systems](blueprints/Room%20Audio%20Streaming%20&%2620Sound%20Systems%20v1.0.md)
 
