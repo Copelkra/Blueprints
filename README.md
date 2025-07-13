@@ -25,7 +25,7 @@ This repository contains modular scrolls representing:
   <br>
 
 Copelkra is educational, open to modification, and protected from commercial exploitation via our <br>
-[Copelkra Educational Sharing & Collaboration License](LICENSE.md).
+[Copelkra Educational Sharing & Collaboration License](docs/LICENSE.md).
 
 #### Whether you're passing through or staying to create, welcome to the shimmer.
 
