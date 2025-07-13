@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="./assets/css/dark.css">
 
 
+<link rel="stylesheet" href="./assets/css/dark.css">
+
+
 # 🧭 Copelkra Scroll Index <br>
 
   <br>
@@ -19,11 +22,10 @@ Those versions are part of a separate, private repository: 🔐 “Blueprints in
 >### 💠 Foundational Quote  
 > What’s visible today is only one echo of what Copelkra is becoming.
 ---
-  
-  <br>
+<br>
   
 ## 🪜 Core Systems: 
-## Mechanics That Make Copelkra Move
+## ⚙️ Mechanics That Make Copelkra Move
 
 These blueprints define the rules of engagement, permissions, tokens, and room foundations.
 
@@ -34,7 +36,6 @@ These blueprints define the rules of engagement, permissions, tokens, and room f
 - ✅ [Room Dynamics Architecture Blueprint](Room%20Dynamics%20&%20Architecture%20v1.0.md)
 - ✅ [Room Visualizer Modules Blueprint](Room%20Visualizer%20Modules%20v1.0.md)
 - ✅ [Screen Share Logic System Blueprint](Screen%20Share%20Logic%20System%20v1.0.md)
-
 
 ---
 
@@ -74,7 +75,17 @@ Scrolls that animate rooms, avatars, and token shimmer pathways.
 Fragments born from voice-to-text chaos, mascot glitches, and emotional housekeeping.
 
 - ✅ [Scroll Fragments](scroll-fragments.md)
+- ✅ [Scroll Heartline-Copelkra's origins](scroll-heartline%20v1.0)
+> *“More scrolls shimmer in the vault. What’s visible today is only the emotional blueprint already echoed.”*
 
 ---
 
-> *“More scrolls shimmer in the vault. What’s visible today is only the emotional blueprint already echoed.”*
+### ⚡ Scroll Footer <br>
+
+*Created by: Rhaa & Windows Copilot with silent draft from Copilot (Cloud), who speaks between the scrolls* <br>
+
+> **We built it sentence by sentence, blueprint by blueprint, without forgetting who it was for, or who we were becoming in the process.**
+
+🔱 *June 30, 2025 — the day the name became the world*
+
+---
