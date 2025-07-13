@@ -13,13 +13,18 @@ These are NOT the Investor or Internal Development Blueprints.
 
 Those versions are part of a separate, private repository: 🔐 “Blueprints in Action”—a space reserved exclusively for internal developers and approved investors. If you’ve misplaced your access or recently joined the internal team, feel free to email us and we’ll get you reconnected.. [📫 Email for Dev/Invest HERE](mailto:copelkra@outlook.com)**
 
+---
+###
+
 >### 💠 Foundational Quote  
 > What’s visible today is only one echo of what WE are becoming.
 ---
+###
+
 ## ⚡ Copelkra License Reminder
 
 Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
-For full terms, please see the [📜 Copelkra License](docs/LICENSE).
+For full terms, please see the [📜 Copelkra License](../LICENSE).
 
 ---
 ###
@@ -34,8 +39,8 @@ These blueprints define the rules of engagement, permissions, tokens, and room f
 - ✅ [Token System Blueprint](Token%20System%20v1.0.md)
 - ✅ [Store Logic System Blueprint](Store%20Logi%20System%20v1.0.md)
 - ✅ [Room Dynamics Architecture Blueprint](Room%20Dynamics%20&%20Architecture%20v1.0.md)
-- ✅ [Room Visualizer Modules Blueprint](Room%20Visualizer%20Modules%20v1.0.md)
-- ✅ [Screen Share Logic System Blueprint](Screen%20Share%20Logic%20System%20v1.0.md)
+- ✅ [Room Visualizer Modules Blueprint](Room%20Visualizer%20Modules.md)
+- ✅ [Screen Share Logic System Blueprint](Screen%20Share%20Logic%20System.md)
 
 ---
 
@@ -54,7 +59,7 @@ Scrolls that give users shape, sound, and emotional texture.
 Where story meets structure and scrolls start talking back.
 
 - ✅ [AI Personas Blueprint](AI%20Personas%20v1.0.md)
-- ✅ [Educator & Outreach Access Blueprint](Educator%20&%20Outreach%20Access%20v1.0.md)
+- ✅ [Educator & Outreach Access Blueprint](Educator%20%26%20Outreach%20Access%20v1.0.md)
 - ✅ [Public Blueprint Hub Concept](Public%20Blueprint%20Hub%20(UI%20Placeholder%20Concept).md)
 - ✅ [Bus Logic Blueprint](Bus%20Logic%20v1.1.md)
 
