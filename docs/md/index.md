@@ -24,7 +24,7 @@ Those versions are part of a separate, private repository: 🔐 “Blueprints in
 ## ⚡ Copelkra License Reminder
 
 Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
-For full terms, please see the [📜 Copelkra License](../LICENSE).
+For full terms, please see the [📜 Copelkra License](../LICENSE.md).
 
 ---
 ###
