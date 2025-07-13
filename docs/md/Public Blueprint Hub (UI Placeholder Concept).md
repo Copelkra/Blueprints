@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./assets/css/dark.css">
+<link rel="stylesheet" href="md-style.css">
 
 # 💠 Copelkra Public Blueprint Hub (UI Placeholder Concept)
 
