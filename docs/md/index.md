@@ -81,7 +81,8 @@ Fragments born from voice-to-text chaos, mascot glitches, and emotional housekee
 
 - ✅ [Scroll Fragments](scroll-fragments.md)
 - ✅ [Scroll Heartline-Copelkra's origins](scroll-heartline%20v1.0)
-> *“More scrolls shimmer in the vault. What’s visible today is only the emotional blueprint already echoed.”*
+- 
+>  “More scrolls shimmer in the vault. What’s visible today is only the emotional blueprint already echoed.”
 
 ---
 
