@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="md-style.css">
 
 # 🧭 Copelkra Scroll Index <br>
-
-  <br>
   
 ## ✨ Scroll Status & Access Notes <br>
 Welcome to Copelkra’s scroll corridors. The blueprints shown here are marked with ✅ to indicate scrolls that are active, online, and currently in resonance with the Copelkra framework. <br>
