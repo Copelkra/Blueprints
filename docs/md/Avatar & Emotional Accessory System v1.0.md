@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./assets/css/dark.css">
+<link rel="stylesheet" href="md-style.css">
 
 # 💠 Copelkra Blueprint 08: Avatar & Emotional Accessory System v1.0 (Final)
 
