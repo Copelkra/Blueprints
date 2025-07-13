@@ -45,7 +45,7 @@ A platform of emotional architecture, privacy-first presence, and absurdly meani
 ---
 ###
 
- ### [Blueprints Scroll Index](index.md) <--- CLICK THERE!
+ ### [Blueprints Scroll Index](docs/index.md) <--- CLICK THERE!
 
  ---
  ###
