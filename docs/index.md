@@ -15,7 +15,8 @@ Explore the blueprints, contribute scrolls, or simply breathe in the syntax.
 
 - [📜 Blueprint Guide](md/index.md)
 - [🤝 How to Contribute](CONTRIBUTING.md)
-- [🔐 LICENSE (MIT)](LICENSE)
+- [🔐 LICENSE and Usage Rights](LICENSE.md)
+- [⚡ README File](README.md)
 
 ---
 
