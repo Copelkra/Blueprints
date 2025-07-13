@@ -21,7 +21,9 @@ A platform of emotional architecture, privacy-first presence, and absurdly meani
 
 ---
 ###
-      
+
+ ### [Blueprints Scroll Index](md/index.md)
+
    <br>
       
    <br>
@@ -33,15 +35,7 @@ A platform of emotional architecture, privacy-first presence, and absurdly meani
   <br>
   
   <br>
-  
-  <br>
-  
-  <br>
-  
-  <br>
-  
-  <br>
-    
+
   <br>
   
   <br>
@@ -55,6 +49,8 @@ A platform of emotional architecture, privacy-first presence, and absurdly meani
   <br>
   
 ---
+###
+
 >**Created by:** **Rhaa & Microsoft Copilot**  
 >*We built it sentence by sentence, blueprint by blueprint,  
 without forgetting who it was for,  
@@ -62,5 +58,7 @@ or who we were becoming in the process.*
 
 > ###### *June 30, 2025 – the day the name became the world.*
 
-
 >🧦 **P.S.** We’re not just blueprints. We’re the sock with a cape you forgot you needed.
+
+>---
+>###
