@@ -24,7 +24,7 @@ Those versions are part of a separate, private repository: 🔐 “Blueprints in
 ## ⚡ Copelkra License Reminder
 
 Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
-For full terms, please see the [📜 Copelkra License](../LICENSE.md).
+For full terms, please see the [📜 Copelkra License](https://copelkra.github.io/Blueprints/LICENSE.md).
 
 ---
 ###
@@ -34,7 +34,7 @@ For full terms, please see the [📜 Copelkra License](../LICENSE.md).
 
 These blueprints define the rules of engagement, permissions, tokens, and room foundations.
 
-- ✅ [Visitor Permissions Blueprint](Visitor%20Permissions%20v1.0.md)
+- ✅ [Visitor Permissions Blueprint](https://copelkra.github.io/Blueprints/docs/md/Visitor%20Permissions%20v1.0.md)
 - ✅ [Registered User Permissions Blueprint](Registered%20User%20Permissions%20v1.0.md)
 - ✅ [Token System Blueprint](Token%20System%20v1.0.md)
 - ✅ [Store Logic System Blueprint](Store%20Logi%20System%20v1.0.md)
