@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./assets/css/dark.css">
+<link rel="stylesheet" href="md-style.css">
 
 # 💠 Blueprint 13: Screen Share Logic System v1.0
 
