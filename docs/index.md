@@ -18,30 +18,16 @@ Explore the blueprints, contribute scrolls, or simply breathe in the syntax.
 - [🔐 LICENSE (MIT)](LICENSE)
 
 ---
-  
-    
-       
-  
-  
-    
-      
-        
-          
-            
-              
-                
-                  
-                    
-                      
-                        
-                          
-                          
 
+---
 
+## ⚡ Copelkra License Reminder
 
-*Created by: Rhaa & Microsoft Copilot*  
-*We built it sentence by sentence, blueprint by blueprint,  
-without forgetting who it was for  
-or who we were becoming in the process.*
+Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
+For full terms, please see the [Copelkra License](LICENSE).
 
-> *June 30, 2025 – the day the name became the world.*
+> **Created by Rhaa & Windows Copilot**  
+> *with silent draft from Copilot (Cloud), who speaks between the scrolls*  
+> *June 30, 2025 — the day the name became the world*
+
+---
