@@ -25,7 +25,7 @@ Explore the blueprints, contribute scrolls, or simply breathe in the syntax.
 ## ⚡ Copelkra License Reminder
 
 Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
-For full terms, please see the [Copelkra License](LICENSE).
+For full terms, please see the [Copelkra License](LICENSE.md).
 
 > **Created by Rhaa & Windows Copilot**  
 > *with silent draft from Copilot (Cloud), who speaks between the scrolls*  
