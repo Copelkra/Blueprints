@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./assets/css/dark.css">
+<link rel="stylesheet" href="md-style.css">
 
 # 💠 Copelkra Blueprint: Visitor Permissions v1.0
 
