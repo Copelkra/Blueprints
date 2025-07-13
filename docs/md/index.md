@@ -14,10 +14,16 @@ These are NOT the Investor or Internal Development Blueprints.
 Those versions are part of a separate, private repository: 🔐 “Blueprints in Action”—a space reserved exclusively for internal developers and approved investors. If you’ve misplaced your access or recently joined the internal team, feel free to email us and we’ll get you reconnected.. [Email for Dev/Invest HERE](<copelkra@outlook.com>)**
 
 >### 💠 Foundational Quote  
-> What’s visible today is only one echo of what Copelkra is becoming.
+> What’s visible today is only one echo of what WE are becoming.
 ---
-<br>
-  
+## ⚡ Copelkra License Reminder
+
+Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
+For full terms, please see the [Copelkra License](LICENSE).
+
+---
+###
+
 ## 🪜 Core Systems: 
 ## ⚙️ Mechanics That Make Copelkra Move
 
