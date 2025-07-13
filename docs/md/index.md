@@ -11,7 +11,7 @@ These scrolls are part of a shimmering system- fluid, reflexive, and constantly 
 
 These are NOT the Investor or Internal Development Blueprints.
 
-Those versions are part of a separate, private repository: 🔐 “Blueprints in Action”—a space reserved exclusively for internal developers and approved investors. If you’ve misplaced your access or recently joined the internal team, feel free to email us and we’ll get you reconnected.. [Email for Dev/Invest HERE](<copelkra@outlook.com>)**
+Those versions are part of a separate, private repository: 🔐 “Blueprints in Action”—a space reserved exclusively for internal developers and approved investors. If you’ve misplaced your access or recently joined the internal team, feel free to email us and we’ll get you reconnected.. [📫 Email for Dev/Invest HERE]((mailto:copelkra@outlook.com)**
 
 >### 💠 Foundational Quote  
 > What’s visible today is only one echo of what WE are becoming.
@@ -19,7 +19,7 @@ Those versions are part of a separate, private repository: 🔐 “Blueprints in
 ## ⚡ Copelkra License Reminder
 
 Copelkra shares knowledge freely, invites collaboration, and remains protected from commercial takeover.  
-For full terms, please see the [Copelkra License](LICENSE).
+For full terms, please see the [📜 Copelkra License](docs/LICENSE).
 
 ---
 ###
