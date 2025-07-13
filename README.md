@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # 🧠 Welcome to Copelkra
 
 Copelkra is a collaborative AI learning environment rooted in storytelling, scrolls, and shimmer.  
