@@ -5,16 +5,16 @@ A platform of emotional architecture, privacy-first presence, and absurdly meani
   
   <br>
   
-  <br>
+  ---
+  ###
   
 ### 💠 Foundational Quote
 
 > "This is not documentation.  
 > This is architecture with a memory—and a mood."
 
-<br>
- 
----
+
+ ---
 ###
 * 🧷 This repo is in early blueprint mode.  
 * 🧪 Nothing here is final—only emotionally resonant.
@@ -24,12 +24,6 @@ A platform of emotional architecture, privacy-first presence, and absurdly meani
 
  ### [Blueprints Scroll Index](md/index.md)
 
-   <br>
-      
-   <br>
-   
-   <br>
-   
   <br>
   
   <br>
