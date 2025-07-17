@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="style.css">
+---
+layout: default
+title: Copelkra Blueprints
+---
+
 
 # 🧦 Welcome to Copelkra
 
