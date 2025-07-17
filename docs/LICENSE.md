@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://copelkra.github.io/Blueprints/docs/style.css">
 
 # 📜 License: Copelkra Educational Sharing & Collaboration License (CC-BY-NC 4.0)
 
