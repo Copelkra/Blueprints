@@ -1,6 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <title>Copelkra Blueprints</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: radial-gradient(ellipse at top, #1a1a1d, #0f0f0f);
+      color: #f0f0f0;
+    }
+    nav {
+      background-color: #222;
+      padding: 1em;
+      display: flex;
+      justify-content: center;
+      gap: 2em;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    nav a:hover {
+      color: #00ffd1;
+    }
+    #copelkra-container {
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+    }
+  </style>
 </head>
 <body>
-  <!-- Your content -->
+
+  <nav>
+    <a href="#" onclick="loadSection('overview.html')">Project Overview</a>
+    <a href="#" onclick="loadSection('license.html')">License</a>
+    <a href="#" onclick="loadSection('contributors.html')">Contributors</a>
+    <a href="#" onclick="loadSection('blueprints.html')">Blueprints</a>
+    <a href="#" onclick="loadSection('emotions.html')">Emotional Framework</a>
+    <a href="#" onclick="loadSection('meanderings.html')">Meanderings</a>
+    <a href="#" onclick="loadSection('future.html')">Future Rooms</a>
+    <a href="#" onclick="loadSection('comments.html')">Questions & Comments</a>
+    <a href="#" onclick="loadSection('meowdrinks.html')">Meow Drinks</a>
+  </nav>
+
+  <div id="copelkra-container">
+    <h1>Welcome to Copelkra</h1>
+    <p>Where shimmer meets syntax. Click a tab above to dive into the archives.</p>
+  </div>
+
+  <script>
+    function loadSection(file) {
+      fetch(file)
+        .then(res => res.text())
+        .then(content => {
+          document.getElementById('copelkra-container').innerHTML = content;
+        })
+        .catch(err => {
+          document.getElementById('copelkra-container').innerHTML = "<p>Error loading section.</p>";
+        });
+    }
+  </script>
+
 </body>
+</html>
