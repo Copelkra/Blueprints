@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #ffcc70;
+  color: #fbb13c;
   text-shadow: 0 0 5px #fbb13c;
 }
 
@@ -61,8 +61,6 @@ main section {
   padding-bottom: 1em;
   border-bottom: 1px dashed rgba(255, 180, 60, 0.2);
 }
-
-/* Add this to the bottom of your existing style.css */
 
 /* Responsive Layout for Small Screens */
 @media screen and (max-width: 600px) {
